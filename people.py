@@ -18,7 +18,7 @@ if uploaded_file is not None:
     tfile.write(uploaded_file.read())
     video_path = tfile.name
     
-    model = YOLO("yolo11s.pt")
+    model = YOLO("yolov8n.pt")
     names = model.model.names
     
     cap = cv2.VideoCapture(video_path)
