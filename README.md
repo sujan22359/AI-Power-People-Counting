@@ -14,12 +14,13 @@ This is an AI-powered web application for real-time people counting using comput
 
 1. Clone the repo:
    ```bash
-   git clone https://github.com/your-username/your-repo-name.git
-   cd your-repo-name
+   git clone https://github.com/sujan22359/AI-Power-People-Counting.git
+   
 2. Install dependencies:
-   '''bash
+   ```bash
    pip install -r requirements.txt
 3. Run the app:
+    ```bash 
    streamlit run people.py
 🧾 Requirements
 Python 3.8+
