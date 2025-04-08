@@ -1,5 +1,6 @@
-opencv-python
-Streamlit
-ultralytics
-numpy
-cvzone
+streamlit==1.33.0
+opencv-python-headless==4.9.0.80
+numpy==1.26.4
+ultralytics  
+cvzone==1.5.6
+
