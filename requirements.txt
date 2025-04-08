@@ -6,3 +6,4 @@ Pillow==10.2.0
 ultralytics==8.1.34
 lap>=0.5.12
 rich==13.7.1
+torch==2.0.1
